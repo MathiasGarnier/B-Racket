@@ -11,7 +11,7 @@ All along this adventure, you will have to achieve some missions (see Aims).
 > But, of which fucking adventure you speak since earlier ?!
 Hmmm... Pretty good question, I must tell you all the story from the begin...
 
-Tuesday the fourth of June nineteen ninety-six, an unknown event could have been avoided
+04/06/1996, an unknown event could have been avoided
 
 **Aims**:
 
