@@ -12,7 +12,7 @@ All along this adventure, you will have to achieve some missions (see Aims).
 **Aims**:
 
 - [x] Have Fun
-- [ ] Write your first Racket program, a Hello World program.
+- [x] Write your first Racket program, a Hello World program.
 - [ ] Write incredible things in Racket (yup).
 - [ ] Become a **Racket Master**.
 - [ ] Understand life.
