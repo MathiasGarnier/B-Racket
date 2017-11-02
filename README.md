@@ -7,7 +7,8 @@
 Hello you, I should welcome you to this epic poem, but no. You're an adventurer and you will have to make your own way.
 Truce of blah blah...
 
-All along this adventure, you will have to achieve some missions (see Aims).
+All along this adventure, you will have to achieve some missions (see Aims). 
+> But, of which fucking adventure did you speak since earlier ?!
 
 **Aims**:
 
