@@ -11,7 +11,7 @@ All along this adventure, you will have to achieve some missions (see Aims).
 > But, of which fucking adventure you speak since earlier ?!
 Hmmm... Pretty good question, I must tell you all the story from the begin...
 
-04/06/1996, an unknown event could have been avoided
+04/06/1996, an unknown event could have been avoided. The flap of a butterfly’s wings in Brazil has set off a tornado in Texas
 
 **Aims**:
 
