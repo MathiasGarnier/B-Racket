@@ -21,6 +21,6 @@ The Texas' governor emitted a message to all world citizen
 - [ ] Write incredible things in Racket (yup).
 - [ ] Implement Schrödinger equation.
 - [ ] Become a **Racket Master**.
-- [ ] Beat that's fucking butterfly (must use [link to CFD](https://en.wikipedia.org/wiki/Computational_fluid_dynamics)).
+- [ ] Beat that's fucking butterfly (must use [CFD](https://en.wikipedia.org/wiki/Computational_fluid_dynamics) for simulate wind and tornado AND maybe, why not, simulate a sniper shot between Texas and Brazil (yup)).
 - [ ] Understand life.
 - [ ] BRA-KET.
