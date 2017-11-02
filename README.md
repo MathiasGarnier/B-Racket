@@ -11,7 +11,8 @@ All along this adventure, you will have to achieve some missions (see Aims).
 > But, of which fucking adventure you speak since earlier ?!
 Hmmm... Pretty good question, I must tell you all the story from the begin...
 
-04/06/1996, an unknown event could have been avoided. The flap of a butterfly’s wings in Brazil has set off a tornado in Texas
+04/06/1996, a strange event could have been avoided. The flap of a butterfly’s wings in Brazil has set off a tornado in Texas. Why did I tell you this ? Please wait a moment...
+The Texas' governor emitted a message to all world citizen
 
 **Aims**:
 
@@ -20,5 +21,6 @@ Hmmm... Pretty good question, I must tell you all the story from the begin...
 - [ ] Write incredible things in Racket (yup).
 - [ ] Implement Schrödinger equation.
 - [ ] Become a **Racket Master**.
+- [ ] Beat that's fucking butterfly (must use [link to CFD](https://en.wikipedia.org/wiki/Computational_fluid_dynamics)).
 - [ ] Understand life.
 - [ ] BRA-KET.
