@@ -1,7 +1,7 @@
 # Become an adventurer with **RACKET**
 
 <p align="center">
-<iframe src="https://giphy.com/embed/XuS9H6Xssy3Ju" width="480" height="202" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/harrison-ford-indiana-jones-the-raiders-of-lost-ark-XuS9H6Xssy3Ju">via GIPHY</a></p>
+  <img src="http://img.over-blog-kiwi.com/1/21/78/63/20160328/ob_1cccaf_extrait-indiana-jones-and-the-raiders.jpg">
 </p>
 
 **Aims**:
