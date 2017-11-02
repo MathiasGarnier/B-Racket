@@ -7,8 +7,12 @@
 Hello you, I should welcome you to this epic poem, but no. You're an adventurer and you will have to make your own way.
 Truce of blah blah...
 
+All along this adventure, you will have to achieve some missions (see Aims).
+
 **Aims**:
 
 - [x] Have Fun
-- [ ] Become a **Racket Master**.
+- [ ] Write your first Racket program, a Hello World program.
 - [ ] Write incredible things in Racket (yup).
+- [ ] Become a **Racket Master**.
+- [ ] Understand life.
