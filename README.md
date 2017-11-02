@@ -1,4 +1,4 @@
-# My little Racket repository
+# Become an adventurer with **RACKET**
 
 Since few time, I would like to learn a *lisp dialect*. I begin now.
 
