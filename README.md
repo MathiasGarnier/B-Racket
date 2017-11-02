@@ -12,7 +12,7 @@ All along this adventure, you will have to achieve some missions (see Aims).
 Hmmm... Pretty good question, I must tell you all the story from the begin...
 
 04/06/1996, a strange event could have been avoided. The flap of a butterfly’s wings in Brazil has set off a tornado in Texas. Why did I tell you this ? Please wait a moment...
-The Texas' governor emitted a message to all world citizen
+The Texas' governor emitted a message to all world citizen, write a program (in Racket) to kill the fucking butterfly. But don't dream, before write this program you should accomplish many goals.
 
 **Aims**:
 
@@ -20,7 +20,7 @@ The Texas' governor emitted a message to all world citizen
 - [x] Write your first Racket program, a Hello World program.
 - [ ] Write incredible things in Racket (yup).
 - [ ] Implement Schrödinger equation.
+- [ ] Beat that's fucking butterfly (must use [CFD](https://en.wikipedia.org/wiki/Computational_fluid_dynamics) for simulate wind and tornado AND simulate a sniper shot between Texas and Brazil to kill the fucking butterfly(yup)).
 - [ ] Become a **Racket Master**.
-- [ ] Beat that's fucking butterfly (must use [CFD](https://en.wikipedia.org/wiki/Computational_fluid_dynamics) for simulate wind and tornado AND maybe, why not, simulate a sniper shot between Texas and Brazil (yup)).
 - [ ] Understand life.
 - [ ] BRA-KET.
