@@ -14,5 +14,7 @@ All along this adventure, you will have to achieve some missions (see Aims).
 - [x] Have Fun
 - [x] Write your first Racket program, a Hello World program.
 - [ ] Write incredible things in Racket (yup).
+- [ ] Implement Schrödinger equation.
 - [ ] Become a **Racket Master**.
 - [ ] Understand life.
+- [ ] Bra-Ket.
