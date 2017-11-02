@@ -17,4 +17,4 @@ All along this adventure, you will have to achieve some missions (see Aims).
 - [ ] Implement Schrödinger equation.
 - [ ] Become a **Racket Master**.
 - [ ] Understand life.
-- [ ] Bra-Ket.
+- [ ] BRA-KET.
