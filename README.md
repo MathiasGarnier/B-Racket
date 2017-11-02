@@ -1,6 +1,6 @@
 # My little Racket repository
 
-![Image of Mr bean who welcome us](https://d.wattpad.com/story_parts/256664396/images/144e22bc6878841b.jpg)
+![Image of Mr bean be an adventurer](https://static.boredpanda.com/blog/wp-content/uploads/2017/03/mr-bean-rowan-atkinson-photoshop-58d8dbb824274__880.jpg)
 
 Since few time, I would like to learn a *lisp dialect*. I begin now.
 
