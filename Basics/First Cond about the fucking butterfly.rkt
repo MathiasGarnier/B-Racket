@@ -4,7 +4,7 @@
   (cond
     [(string-contains? str "butterfly")
      "Fuck, the fucking butterfly. We can't kill it now, we're too weak !"]
-    [( >= (string-length str) 42)
+    [(>= (string-length str) 42)
      "Shut up, let me think, I try to found a solution to kill the fucking butterfly"]
     [else "Hmmm, I don't understand"]))
 
